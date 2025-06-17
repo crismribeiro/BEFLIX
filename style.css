@@ -4,6 +4,11 @@ body {
   font-family: "Savate", sans-serif;
  }
 h1 {
-    font-size: 40px
-    
-    
+    font-size: 40px;
+}
+P {
+    font-size: 20px;
+}
+header {
+    font-size: 50px;
+}
